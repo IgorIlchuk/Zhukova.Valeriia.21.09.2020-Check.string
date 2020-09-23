@@ -4,7 +4,7 @@ def myfunction(mystring):
     for i in mystring:
         if i == 'о':
             count += 1
-    print('\nБуква "о" встречается', count, 'раз')
+    print('\nБуква "о" повторяеться', count, 'раз')
 
 
 myfunction('''Не стоит прогибаться под изменчивый мир - 
